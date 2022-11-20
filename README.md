@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Click Me !](https://stephanlaasportfolio.netlify.app/)
 
+![](gifsovtech.gif)
+
 ## Quick Overview on how to create a CRA application
 
 ```
@@ -28,5 +30,5 @@ Secondly use this command to run the application, this will launch the code on a
 npm start
 ```
 
-![](gifsovtech.gif)
+
 
