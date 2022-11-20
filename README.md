@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Click Me !](https://stephanlaasportfolio.netlify.app/)
 
-## Quick Overview
+## Quick Overview on how to create a CRA application
 
 ```
 npx create-react-app my-app
@@ -22,7 +22,7 @@ First run the below code, this will install all the packages needed.
 npm i
 ```
 
-Secondly use this command to run the application, this will launch the code on a local port 
+Secondly use this command to run the application, this will launch the code on a local port.
 
 ```
 npm start
