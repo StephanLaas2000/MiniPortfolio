@@ -13,3 +13,18 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+
+## Installation Guide
+
+First run the below code, this will install all the packages needed.
+
+```
+npm i
+```
+
+Secondly use this command to run the application, this will launch the code on a local port 
+
+```
+npm start
+```
+
