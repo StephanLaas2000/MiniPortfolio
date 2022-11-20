@@ -28,3 +28,5 @@ Secondly use this command to run the application, this will launch the code on a
 npm start
 ```
 
+![](gifsovtech.gif)
+
